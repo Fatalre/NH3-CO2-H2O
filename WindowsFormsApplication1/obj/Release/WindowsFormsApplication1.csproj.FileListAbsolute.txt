@@ -1,0 +1,30 @@
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс\проба№2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс\проба№2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс\проба№2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс\проба№2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс\проба№2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс\проба№2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс\проба№2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс\проба№2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс\проба№2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс (код)\графический интерфейс (код) V1.2\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс (код)\графический интерфейс (код) V1.2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс (код)\графический интерфейс (код) V1.2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс (код)\графический интерфейс (код) V1.2\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс (код)\графический интерфейс (код) V1.2\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс (код)\графический интерфейс (код) V1.2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс (код)\графический интерфейс (код) V1.2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс (код)\графический интерфейс (код) V1.2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\графический интерфейс (код)\графический интерфейс (код) V1.2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\NH3-CO2-H2O графический интерфейс (код)\графический интерфейс (код) V1.2\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\NH3-CO2-H2O графический интерфейс (код)\графический интерфейс (код) V1.2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\NH3-CO2-H2O графический интерфейс (код)\графический интерфейс (код) V1.2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\NH3-CO2-H2O графический интерфейс (код)\графический интерфейс (код) V1.4\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\NH3-CO2-H2O графический интерфейс (код)\графический интерфейс (код) V1.4\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\NH3-CO2-H2O графический интерфейс (код)\графический интерфейс (код) V1.4\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\NH3-CO2-H2O графический интерфейс (код)\графический интерфейс (код) V1.4\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\NH3-CO2-H2O графический интерфейс (код)\графический интерфейс (код) V1.4\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\NH3-CO2-H2O графический интерфейс (код)\графический интерфейс (код) V1.4\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\NH3-CO2-H2O графический интерфейс (код)\графический интерфейс (код) V1.4\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\NH3-CO2-H2O графический интерфейс (код)\графический интерфейс (код) V1.4\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\my\Ucheba\Himiya\Programu\NH3-CO2-H2O\NH3-CO2-H2O графический интерфейс (код)\графический интерфейс (код) V1.4\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
